@@ -1,33 +1,17 @@
 # Glossary
 
-This is some sample text.
+```
+```{glossary}
+Algorithm
+  A set of rules that a machine (such as a computer) can follow to learn how to do a task.
 
-(section-label)=
+Artificial Intelligence
+  An artificially intelligent computer system makes predictions or takes actions based on patterns in existing data for example notifying a GP when disease risk factors have been identified in a patients records.
 
-## Here's my first section
-
-Here is a [reference to the intro](intro.md). Here is a reference to [](section-label).
-
-
-
-
-This is a test file
-
-You can also cite references that are stored in a `bibtex` file. For example,
-the following syntax: ``{cite}`holdgraf_evidence_2014` `` will render like
-this: {cite}`holdgraf_evidence_2014`.
-
-Moreover, you can insert a bibliography into your page with this syntax:
-The `{bibliography}` directive must be used for all the `{cite}` roles to
-render properly.
-For example, if the references for your book are stored in `references.bib`,
-then the bibliography is inserted with:
-
-```{bibliography}
+Autonomous
+  A machine is described as autonomous if it can perform its task or tasks without needing human intervention.
+```
 
 ```
 
-## Learn more
-
-This is just a simple starter to get you started.
-You can learn a lot more at [jupyterbook.org](https://jupyterbook.org).
+```
