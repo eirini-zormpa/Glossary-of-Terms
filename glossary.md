@@ -1,5 +1,6 @@
 # Glossary
 
+```{glossary}
 Algorithm
   A set of rules that a machine (such as a computer) can follow to learn how to do a task.
 
@@ -8,4 +9,4 @@ Artificial Intelligence
 
 Autonomous
   A machine is described as autonomous if it can perform its task or tasks without needing human intervention.
-
+```
