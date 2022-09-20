@@ -24,7 +24,7 @@ For any organisation related queries or concerns, you can directly reach out to 
 🤝 Contributors 
 ---
 
-A massive **Thanks** goes to these wonderful people who have contributed to and built this Glossary of Terms ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+A massive thank you goes to these wonderful people who have contributed to and built this Glossary of Terms ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
