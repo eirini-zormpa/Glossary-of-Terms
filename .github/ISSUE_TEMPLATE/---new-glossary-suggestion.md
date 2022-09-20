@@ -2,7 +2,7 @@
 name: "✍️ New Glossary Suggestion"
 about: 'Suggest a term that should be added to the Glossary. '
 title: "[✍️ NEW TERM] "
-labels: ''
+labels: new terms
 assignees: BrainonSilicon
 
 ---
