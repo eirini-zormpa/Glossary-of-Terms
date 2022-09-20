@@ -1,0 +1,30 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "BrainonSilicon",
+      "name": "Sophia Batchelor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42813259?v=4",
+      "profile": "www.brainonsilicon.com",
+      "contributions": [
+        "code",
+        "doc",
+        "design",
+        "example",
+        "infra",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Glossary-of-Terms",
+  "projectOwner": "aim-rsf"
+}
