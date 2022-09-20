@@ -1,6 +1,6 @@
 # Welcome
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 :books: About the Glossary of Terms
@@ -35,6 +35,7 @@ A massive **Thanks** goes to these wonderful people who have contributed to and 
       <td align="center"><a href="www.brainonsilicon.com"><img src="https://avatars.githubusercontent.com/u/42813259?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sophia Batchelor</b></sub></a><br /><a href="https://github.com/aim-rsf/Glossary-of-Terms/commits?author=BrainonSilicon" title="Code">💻</a> <a href="https://github.com/aim-rsf/Glossary-of-Terms/commits?author=BrainonSilicon" title="Documentation">📖</a> <a href="#design-BrainonSilicon" title="Design">🎨</a> <a href="#example-BrainonSilicon" title="Examples">💡</a> <a href="#infra-BrainonSilicon" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#ideas-BrainonSilicon" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center"><a href="https://github.com/BobJasper"><img src="https://avatars.githubusercontent.com/u/113612782?v=4?s=100" width="100px;" alt=""/><br /><sub><b>BobJasper</b></sub></a><br /><a href="#content-BobJasper" title="Content">🖋</a> <a href="#example-BobJasper" title="Examples">💡</a> <a href="#userTesting-BobJasper" title="User Testing">📓</a></td>
       <td align="center"><a href="https://github.com/Rabittes"><img src="https://avatars.githubusercontent.com/u/109737017?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rabittes</b></sub></a><br /><a href="#content-Rabittes" title="Content">🖋</a> <a href="#example-Rabittes" title="Examples">💡</a></td>
+      <td align="center"><a href="https://sgibson91.github.io/"><img src="https://avatars.githubusercontent.com/u/44771837?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sarah Gibson</b></sub></a><br /><a href="#infra-sgibson91" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#mentoring-sgibson91" title="Mentoring">🧑‍🏫</a> <a href="#tool-sgibson91" title="Tools">🔧</a></td>
     </tr>
   </tbody>
 </table>
