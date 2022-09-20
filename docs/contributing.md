@@ -1,10 +1,12 @@
 # Contributing Guidelines
 
-Thank you for taking the time to contribute to this project 🎉
-
-A contributor is anyone who suggests, creates, adds to, changes, updates, or reviews the material in this repository. Please refer to the [**Code of Conduct**](#code-of-conduct) section for information on what behaviours we expect of contributors.
+Thank you for taking the time to contribute to the AIM Research Support Facility's Glossary of Terms 🎉
 
 This repository is here to help folks get started collaborating on the AIM-RSF glossary of terms. We know that the field of AI and Medicine is huge (and continually expanding) so we hope that this is an area that will be consistently updated as the AIM project grows. The Glossary's contents are being developed ****openly**** and we invites contributions from ****anyone**** who wants to support the work of the AI for Multiple Long-Term Conditions Project.
+
+### What is a "Contributor"
+
+A contributor is anyone who suggests, creates, adds to, changes, updates, or reviews the material in this repository. Please refer to the [**Code of Conduct**](#code-of-conduct) section for information on what behaviours we expect of contributors.
 
 A primary goal of our AI for Multiple Long Term Conditions Community is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion. This document outlines our expectations for all those who participagit statte in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in the AIM RSF Community to help us create safe and positive experiences for everyone.
 
@@ -14,23 +16,16 @@ Please read through the [Code of Conduct](#code-of-conduct) below before contrib
 
 💡 I'm new to contributing and don't know where to get started
 ---
-Please familarize yourself with the AIM project and its goals. You can find information in our Getting Started repository or on The Alan Turing Institute's website. Remember to read through the terms that already exist in the Glossary before suggesting a new one. 
+Please familarize yourself with the AIM project and its goals. You can find information in our [Getting Started repository](https://github.com/aim-rsf/Getting-Started) or on [The Alan Turing Institute's website](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility). Remember to read through the terms that already exist in the Glossary before suggesting a new one. 
 
-If you see a term that you think should be updated but are new to collaborating on GitHub, you can read the awesome blog post about how to start contributing to projects on GitHub [linked here](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution), or attend our monthly Collaboration Cafes hosted by the AIM RSF Community Managers. Reach out to sbatchelor@turing.ac.uk or ezormpa@turing.ac.uk for joining information. 
-
-
-👋 I only have 5 minutes
----
-
-Look at the Discussions pages to participate in an ongoing discussion, or go through our currently open [Issues](../../issues) to troubleshoot an open issue.
-You can also share this repository with one of your collaborators in the AIM Consortium who might be interested to get involved.
+If you see a term that you think should be updated but are new to collaborating on GitHub, you can read the awesome blog post about how to start contributing to projects on GitHub [linked here](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution), **or** attend our monthly Collaboration Cafes hosted by the AIM RSF Community Managers. Reach out to sbatchelor@turing.ac.uk or ezormpa@turing.ac.uk for information on how to join the Collaboration Cafes. 
 
 
 🛠 I am ready to contribute 
 ---
 
 You can contribute to this Glossary in 2 ways: **Pull Requests** or **Discussions**
-- For community members who are new to GitHub, we suggest getting involved in the Discussions section. 
+- For community members who are new to GitHub, we suggest getting involved in Discussions.
   - You can suggest new terms that need to be added to the Glossary by commenting on the [Adding Terms to the Glossary](https://github.com/aim-rsf/Glossary-of-Terms/discussions/3) Discussion
   - Or you can add definitions by finding terms in the [Discussion List](https://github.com/aim-rsf/Glossary-of-Terms/discussions/3) that do not have definitions or citiations added to them.  
 - If you are comfortable (or want to learn!) with Branches and Pull Requests, you can raise mistakes, add information, or offer content suggestions for the Glossary by opening a Pull Request.
