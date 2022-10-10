@@ -15,7 +15,7 @@ This repository and its contents are here to help folks collaborate on the Gloss
 
 :sparkles: How to Contribute
 ---
-Read our [Contributors Guidelines](./contributing.md) and then join the Discussion on terms [here](https://github.com/aim-rsf/Glossary-of-Terms/discussions/3). 
+Read our [Contributors Guidelines](docs/contributing.md) and then join the Discussion on terms [here](https://github.com/aim-rsf/Glossary-of-Terms/discussions/3). 
 
 
 📫 Contact
