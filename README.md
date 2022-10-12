@@ -46,4 +46,4 @@ A massive thank you goes to these wonderful people who have contributed to and b
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Please read our [Guidelines](docs/contributing.md) on how to contribute to this Glossary. The Glossary is maintained and built by our community so if you believe a term is missing, please feel welcome to add or suggest content. For information on how to do this, read through the [Contributing](docs/contributing.md) information.
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Please read our [Contributors Guidelines](docs/contributing.md) on how to contribute to this Glossary. The Glossary is maintained and built by our community so if you believe a term is missing, please feel welcome to add or suggest content.
