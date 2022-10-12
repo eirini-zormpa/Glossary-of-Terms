@@ -7,7 +7,7 @@
 ---
 The AIM Research Support Facility (RSF), based at The Alan Turing Institute with collaborators from Swansea University and the University of Edinburgh, offers AI and advanced data science support to the research teams part of the [NIHR's Artificial Intelligence for Multiple Long-Term Conditions (AIM)](https://www.nihr.ac.uk/blog/artificial-intelligence-to-understand-clusters-of-multiple-long-term-conditions-an-nihr-priority/25171) project.
 
-Our community has compiled a [Glossary](./glossary) of common terms relating to Health, Medicine, Artificial Intelligence, and Data Science to support the development and dissemnation of AIM project work. The Glossary can be accessed by visiting the public website which has been built with JupytherBook and deployed using GitHub Pages. </br>
+Our community has compiled a [Glossary](docs/glossary.md) of common terms relating to Health, Medicine, Artificial Intelligence, and Data Science to support the development and dissemnation of AIM project work. The Glossary can be accessed by visiting the public website which has been built with JupytherBook and deployed using GitHub Pages. </br>
 </br>
 You can visit the website at this link: https://aim-rsf.github.io/Glossary-of-Terms.   
 
@@ -15,7 +15,7 @@ This repository and its contents are here to help folks collaborate on the Gloss
 
 :sparkles: How to Contribute
 ---
-Read our [Contributors Guidelines](./contributing.md) and then join the Discussion on terms [here](https://github.com/aim-rsf/Glossary-of-Terms/discussions/3). 
+Read our [Contributors Guidelines](docs/contributing.md) and then join the Discussion on terms [here](https://github.com/aim-rsf/Glossary-of-Terms/discussions/3). 
 
 
 📫 Contact
@@ -46,4 +46,4 @@ A massive thank you goes to these wonderful people who have contributed to and b
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Please read our [Guidelines](.contributing) on how to contribute to this Glossary. The Glossary is maintained and built by our community so if you believe a term is missing, please feel welcome to add or suggest content. For information on how to do this, read through the [Contributing](./contributing.md) information.
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Please read our [Contributors Guidelines](docs/contributing.md) on how to contribute to this Glossary. The Glossary is maintained and built by our community so if you believe a term is missing, please feel welcome to add or suggest content.
