@@ -7,7 +7,7 @@
 ---
 The AIM Research Support Facility (RSF), based at The Alan Turing Institute with collaborators from Swansea University and the University of Edinburgh, offers AI and advanced data science support to the research teams part of the [NIHR's Artificial Intelligence for Multiple Long-Term Conditions (AIM)](https://www.nihr.ac.uk/blog/artificial-intelligence-to-understand-clusters-of-multiple-long-term-conditions-an-nihr-priority/25171) project.
 
-Our community has compiled a [Glossary](docs/glossary) of common terms relating to Health, Medicine, Artificial Intelligence, and Data Science to support the development and dissemnation of AIM project work. The Glossary can be accessed by visiting the public website which has been built with JupytherBook and deployed using GitHub Pages. </br>
+Our community has compiled a [Glossary](docs/glossary.md) of common terms relating to Health, Medicine, Artificial Intelligence, and Data Science to support the development and dissemnation of AIM project work. The Glossary can be accessed by visiting the public website which has been built with JupytherBook and deployed using GitHub Pages. </br>
 </br>
 You can visit the website at this link: https://aim-rsf.github.io/Glossary-of-Terms.   
 
