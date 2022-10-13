@@ -47,7 +47,7 @@ Python
 	A popular programming language used for general programming.
 
 Population Data Science	
-	A multi-disciplinary field, which focuses on collections of individuals, and the biological, economic, social, and environmental experiences that shape their lives, their health and their wellbeing.
+	A multi-disciplinary field, which focuses on collections of individuals, and the biological, economic, social, and environmental experiences that shape their lives, their health and their wellbeing. {cite}`Swansea2022`
 
   
 ```
