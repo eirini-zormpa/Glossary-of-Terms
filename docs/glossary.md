@@ -43,11 +43,10 @@ Natural Language Processing (NLP)
 Natural Language Understanding (NLU)
 	As a subset of natural language processing, natural language understanding deals with helping machines to recognize the intended meaning of language — taking into account its subtle nuances and any grammatical errors.
 
-Python	
-	A popular programming language used for general programming.
-
 Population Data Science	
 	A multi-disciplinary field, which focuses on collections of individuals, and the biological, economic, social, and environmental experiences that shape their lives, their health and their wellbeing. {cite}`Swansea2022`
 
-  
+Python	
+	A popular programming language used for general programming.
+
 ```
