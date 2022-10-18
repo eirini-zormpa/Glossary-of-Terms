@@ -18,7 +18,7 @@ Please read through the [Code of Conduct](#code-of-conduct) below before contrib
 ---
 Please familarize yourself with the AIM project and its goals. You can find information in our [Getting Started repository](https://github.com/aim-rsf/Getting-Started) or on [The Alan Turing Institute's website](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility). Remember to read through the terms that already exist in the Glossary before suggesting a new one. 
 
-If you see a term that you think should be updated but are new to collaborating on GitHub, you can read the awesome blog post about how to start contributing to projects on GitHub [linked here](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution), **or** attend our monthly Collaboration Cafes hosted by the AIM RSF Community Managers. Reach out to sbatchelor@turing.ac.uk or ezormpa@turing.ac.uk for information on how to join the Collaboration Cafes. 
+If you see a term that you think should be updated but are new to collaborating on GitHub, you can read [this awesome blog post about how to start contributing to projects on GitHub](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution), **or** attend our monthly Collaboration Cafes hosted by the AIM RSF Community Managers. Reach out to sbatchelor@turing.ac.uk or ezormpa@turing.ac.uk for information on how to join the Collaboration Cafes. 
 
 
 🛠 I am ready to contribute 
